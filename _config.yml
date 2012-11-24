@@ -1,0 +1,4 @@
+auto: true
+permalink: /:title.html
+markdown: kramdown
+
