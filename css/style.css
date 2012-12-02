@@ -109,6 +109,7 @@ header {
   position:fixed;
 }
 
+/*
 header ul {
   list-style:none;
   height:40px;
@@ -168,6 +169,11 @@ header ul a:active {
   -webkit-box-shadow: inset 0px 2px 2px 0px #ddd;
   -moz-box-shadow: inset 0px 2px 2px 0px #ddd;
   box-shadow: inset 0px 2px 2px 0px #ddd;
+}
+*/
+
+header h1 a {
+	font-weight: 600;
 }
 
 strong {
