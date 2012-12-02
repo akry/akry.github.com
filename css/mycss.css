@@ -1,0 +1,17 @@
+a, h1, h2, h3 {
+	color: #992200;
+}
+
+a:hover {
+	color: #EE7755;
+}
+
+.lists ul {
+	list-style: none;
+}
+
+.ts {
+	text-align: right;
+	font-style: italic;
+	font-size: 70%;
+}
