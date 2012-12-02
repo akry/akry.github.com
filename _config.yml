@@ -2,3 +2,4 @@ safe: true
 auto: true
 permalink: /:title.html
 markdown: kramdown
+uri: http://akry.github.com
