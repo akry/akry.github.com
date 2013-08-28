@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd"> 
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Universita' della Svizzera italiana - pagina personale</title>
+<style type="text/css">
+  p { font: 12pt Arial }
+  h4 { font: 10pt Arial }
+</style>
+</head>
+
+<body>
+<p><strong>Università della Svizzera italiana</strong></p>
+<h4>
+Questa è la pagina iniziale del vostro sito web personale.<br>
+Potete modificarla a vostro piacimento ma dovete mantenere il nome <strong>index.htm</strong>.<br>
+In questo spazio potete inserire fino a 20 Mbyte di files.<br><br>
+Gli Amministratori di sistema
+</h4>
+
+</body>
+</html>
